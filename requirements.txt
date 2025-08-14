@@ -1,0 +1,10 @@
+streamlit
+pydantic
+google-generativeai
+duckduckgo-search
+anyio
+aiohttp
+tenacity
+pyyaml
+playwright
+browser-use
